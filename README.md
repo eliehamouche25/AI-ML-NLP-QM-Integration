@@ -122,19 +122,21 @@ Edit
 
 You can install all required libraries with:
 
-```bash
-pip install -r requirements.txt
 Main libraries used:
 
-numpy
-pandas
-matplotlib
-scikit-learn
-qiskit
-nltk
+NumPy :  Provides support for numerical computing, especially arrays and matrices. Essential for fast mathematical operations and underlies many other libraries.
+
+Pandas :  Used for data manipulation and analysis. It provides DataFrames, powerful structures for organizing and filtering data. Ideal for loading, cleaning, and preparing datasets.
+
+Matplotlib : A visualization library used to create static, animated, and interactive plots. Helps you visualize data trends and model performance (e.g., confusion matrix, accuracy curves).
+
+Scikit-learn : The go-to library for classical machine learning. Includes tools for classification, regression, clustering, model selection, and preprocessing.
+
+NLTK (Natural Language Toolkit)	: Used for natural language processing (NLP) tasks like tokenization, stemming, sentiment analysis, and language modeling.
+
+Qiskit : Developed by IBM for quantum computing. Enables the design, simulation, and execution of quantum circuits. Used to explore hybrid quantum–classical AI models.
 
 transformers
-
 📊 Use Cases & Features
 🧠 AI + ML: A class-based pipeline that trains machine learning models with real datasets (e.g., student performance prediction).
 🗣️ AI + NLP: Sentiment analyzer and text summarization using Transformer models.
