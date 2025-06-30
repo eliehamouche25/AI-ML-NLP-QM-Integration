@@ -58,20 +58,32 @@ Publish academic papers and open-source frameworks.
 
 🗂️ Folder Structure
 
-📁 AI-ML-NLP-QM-Integration/
+AI-ML-NLP-QM-Integration/
+│
 ├── README.md
-├── ai_ml_pipeline.py
-├── quantum_ai.py
-├── nlp_processor.py
-├── data/
-│   ├── students.csv
-│   └── sample_texts.txt
+├── LICENSE
+├── requirements.txt
+│
+├── sources_code_py/
+│   ├── ai_ml_pipeline.py
+│   ├── quantum_ai.py
+│   ├── nlp_processor.py (to be created or updated)
+│
 ├── images/
-│   └── integration_diagram.png
-├── reports/
-│   └── project_overview.pdf
-└── notebooks/
-    └── exploration.ipynb
+│   ├── class_diagram.png
+│   ├── flowchart_ai_ml.png
+│   └── roadmap_diagram.png
+│
+├── quantum/
+│   ├── qiskit_example.py
+│   └── quantum_notes.md
+│
+├── notebooks/
+│   └── experiments.ipynb (optional)
+│
+└── docs/
+    └── roadmap_summary.pdf (to be added)
+
 
 🤝 Contributors
 
