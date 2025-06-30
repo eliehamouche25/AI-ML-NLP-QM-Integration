@@ -78,16 +78,12 @@ Publish academic papers and open-source frameworks.
 Research Lead: eliehamouche25
 
 Technical Collaborator: ChatGPT by OpenAI
-
-
+------------------------------------------------------------------------------------------
 
 This project is open source and available under the MIT License.
-
-
 This project is a scientific and technical initiative that integrates **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Quantum Mechanics (QM)** into a unified research and development framework. It is designed to explore how modern computation and intelligent systems can work together for the benefit of science and humanity.
 
----
-
+---------------------------------------------------------------------------------------------
 ## 📌 Project Overview
 
 | Component | Summary |
@@ -131,24 +127,17 @@ pip install -r requirements.txt
 Main libraries used:
 
 numpy
-
 pandas
-
 matplotlib
-
 scikit-learn
-
 qiskit
-
 nltk
 
 transformers
 
 📊 Use Cases & Features
 🧠 AI + ML: A class-based pipeline that trains machine learning models with real datasets (e.g., student performance prediction).
-
 🗣️ AI + NLP: Sentiment analyzer and text summarization using Transformer models.
-
 ⚛️ AI + QM: A sample hybrid model using Qiskit to process quantum circuits and merge results with classical ML.
 
 🔬 Current Focus
