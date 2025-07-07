@@ -13,7 +13,7 @@ Basic Activity Diagram Notations and Symbols
 9. Time event
 10. Merging flows
 11. Interrupting edge symbol  
-12.Swimlanes
+12. Swimlanes
 13. End point symbol 
 
 
