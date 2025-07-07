@@ -12,9 +12,10 @@ Basic Activity Diagram Notations and Symbols
 8. Synchronization
 9. Time event
 10. Merging flows
-11. Interrupting edge symbol  
-12. Swimlanes
-13. End point symbol 
+11. Interrupting edge symbol
+12. Sent and received symbols 
+13. Swimlanes
+14. End point symbol 
 
 
 
