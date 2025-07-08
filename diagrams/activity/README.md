@@ -1,4 +1,5 @@
 Activity Diagram
+
 An activity diagram visually presents a series of actions or flow of control in a system similar to a flowchart or a data flow diagram. 
 Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
 
