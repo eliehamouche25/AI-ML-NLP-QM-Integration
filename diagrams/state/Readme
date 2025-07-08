@@ -1,1 +1,26 @@
+Statechart Diagrams
 
+A Statechart diagram describes a state machine. State machine can be defined as a machine which defines
+different states of an object and these states are controlled by external or internal events.
+As Statechart diagram defines the states, it is used to model the lifetime of an object.
+
+Statechart diagram is one of the UML diagrams used to model the dynamic nature of a system. 
+They define different states of an object during its lifetime and these states are changed by events. 
+Statechart diagrams are useful to model the reactive systems. 
+Reactive systems can be defined as a system that responds to external or internal events.
+
+Statechart diagram describes the flow of control from one state to another state. 
+States are defined as a condition in which an object exists and it changes when some event is triggered. 
+The most important purpose of Statechart 
+diagram is to model lifetime of an object from creation to termination.
+Statechart diagrams are also used for forward and reverse engineering of a system.
+
+Statechart diagrams are very important for describing the states.
+States can be identified as the condition of objects when a particular event occurs.
+we should clarify the following points −
+Identify the important objects to be analyzed.
+Identify the states.
+Identify the events.
+
+and Events are internal or external factors influencing the system.
+Statechart diagrams are used to model the states and also the events operating on the system.
