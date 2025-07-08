@@ -1,0 +1,12 @@
+
+Class diagram is a static diagram. It represents the static view of an application. 
+Class diagram is not only used for visualizing, describing, and documenting different aspects of a system
+but also for constructing executable code of the software application.
+
+Class diagram describes the attributes and operations of a class and also the constraints imposed on the system.
+
+Class diagram is basically a graphical representation of the static view of the system and represents different aspects of the application. 
+A collection of class diagrams represent the whole system.
+Class diagram is a static diagram and it is used to model the static view of a system.
+The static view describes the vocabulary of the system.
+
