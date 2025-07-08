@@ -1,5 +1,12 @@
 Activity Diagram
 An activity diagram visually presents a series of actions or flow of control in a system similar to a flowchart or a data flow diagram. 
+Activity diagram is basically a flowchart to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
+we should identify the following elements :
+Activities
+Association
+Conditions
+Constraints
+
 
 Activity diagrams are often used in business process modeling. They can also describe the steps in a use case diagram. Activities modeled can be sequential and concurrent. In both cases an activity diagram will have a beginning (an initial state) and an end (a final state).
 Basic Activity Diagram Notations and Symbols
