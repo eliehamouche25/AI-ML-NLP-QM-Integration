@@ -1,1 +1,35 @@
 
+Since its founding in 2007, Lincoln Loop has been building sites for their clients 
+with Python and Django. They credit Python's philosophy of practicality and explicitness,
+along with the rich ecosystem of open-source libraries available on PyPI, as keys to their success. 
+
+Python is used in many application domains. Here's a sampling.
+
+1.Web and Internet Development
+Python's standard library supports many Internet protocols:
+HTML and XML JSON
+E-mail processing.
+Support for FTP, IMAP, and other Internet protocols.
+Easy-to-use socket interface.
+And the Package Index has yet more libraries:
+Requests, a powerful HTTP client library.
+Beautiful Soup, an HTML parser that can handle all sorts of oddball HTML.
+
+2.Scientific and Numeric
+Python is widely used in scientific and numeric computing:
+SciPy is a collection of packages for mathematics, science, and engineering.
+Pandas is a data analysis and modeling library.
+..
+
+3.Education
+Python is a superb language for teaching programming, both at the introductory level and in more advanced courses.
+Python Programming: An Introduction to Computer Science, and Practical Programming.
+
+4.Software Development
+Python is often used as a support language for software developers, for build control and management, 
+testing, and in many other ways.
+
+5.Business Applications
+Python is also used to build ERP and e-commerce systems:
+
+
