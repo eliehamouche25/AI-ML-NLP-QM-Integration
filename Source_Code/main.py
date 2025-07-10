@@ -1,7 +1,9 @@
+ # main
 from ai.sensor_ai import SensorAI
 from ml.trainer import SimpleTrainer
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
+from nlp.nlp_core import SimpleNLPProcessor
 
 def main():
     print("🧠 Initializing AI Component...")
@@ -37,5 +39,18 @@ def main():
     else:
         print("Signal does not trigger ML phase.")
 
+
+    # NLP Processing
+    print("\n🧠 Starting NLP Processing...")
+
+    nlp = SimpleNLPProcessor()
+    sample_text = "I really enjoy working on this AI–ML–NLP–QM integration project."
+    nlp.set_text(sample_text)
+    tokens = nlp.tokenize()
+    parsed = nlp.parse(tokens)
+    sentiment = nlp.recognize_intent()
+    response = nlp.generate_text()
+    print(f"📨 Final NLP Output: {response}")
+ 
 if __name__ == "__main__":
     main()
