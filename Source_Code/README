@@ -19,7 +19,10 @@ Beautiful Soup, an HTML parser that can handle all sorts of oddball HTML.
 Python is widely used in scientific and numeric computing:
 SciPy is a collection of packages for mathematics, science, and engineering.
 Pandas is a data analysis and modeling library.
-..
+Matplotlib : A visualization library used to create static, animated, and interactive plots.  
+Scikit-learn : The go-to library for classical machine learning. Includes tools for classification, regression, clustering, model selection, and preprocessing.
+NLTK (Natural Language Toolkit) : Used for natural language processing (NLP) tasks like tokenization, stemming, sentiment analysis, and language modeling.
+Qiskit : Developed by IBM for quantum computing. Enables the design, simulation, and execution of quantum circuits. Used to explore hybrid quantum–classical AI models.
 
 3.Education
 Python is a superb language for teaching programming, both at the introductory level and in more advanced courses.
