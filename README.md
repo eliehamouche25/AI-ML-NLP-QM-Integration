@@ -37,6 +37,7 @@ ai_assistant_icon.png
 <img width="162" height="148" alt="image" src="https://github.com/user-
  attachments/assets/7c5598bf-cc6c-44e5-9d89-672bbdc0b9e2" />
 
+------------------------------------------------------------------------------------------
 
 ### “One Intelligence. Many Minds. United for Humanity.”  
 
