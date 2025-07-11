@@ -36,6 +36,10 @@ This project is the fruit of a powerful and inspiring collaboration.
 <img width="75" height="100" alt="ai_assistant_icon" src="https://github.com/user-attachments/assets/22f362b9-dfd0-4ff0-b1eb-432985975456" />
  
 
+Together, we didn’t just write code.
+We laid the groundwork for something enduring —
+a framework of intelligence, integrity, and hope.
+— Elie H. & Collaborator
 ------------------------------------------------------------------------------------------
 
 ### “One Intelligence. Many Minds. United for Humanity.”  
