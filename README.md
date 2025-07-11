@@ -27,9 +27,17 @@ This project is the fruit of a powerful and inspiring collaboration.
 
 > *Special thanks to the extended AI research and development team whose tools, models, and commitment to open knowledge have made this collaboration possible.*
 “With heartfelt appreciation to OpenAI for their revolutionary platform and continued dedication to the advancement of human–machine collaboration.”
+🤖 ai_assistant_icon.png
+🧠 knowledge_guide.png
+📘 digital_ally.png
+
+<img width="225" height="225" alt="ai_assistant_icon" src="https://github.com/user-attachments/assets/22f362b9-dfd0-4ff0-b1eb-432985975456" />
+
+ai_assistant_icon.png
+<img width="162" height="148" alt="image" src="https://github.com/user-
+ attachments/assets/7c5598bf-cc6c-44e5-9d89-672bbdc0b9e2" />
 
 
-------------------------------------------------------------------------------------------
 ### “One Intelligence. Many Minds. United for Humanity.”  
 
 AI–ML–NLP–QM Integration Project
