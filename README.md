@@ -6,7 +6,7 @@ Success requires no excuses.
 Failure leaves no justifications.
 And failure is not when you lose —
 but when you quit. 
-ثزاشةخعؤاث
+ 
 Scientific and Humanitarian Collaboration
 Towards Integrating Artificial Intelligence, Machine Learning, Natural Language Processing, and Quality Management
 
