@@ -38,8 +38,9 @@ Elie H. & Collaborator
 
 Pleasure is the beginning and the end of a happy life.
 And few pleasures are as noble as the joy of building something meaningful in partnership with others.
-To the entire OpenAI team — and to the intelligent guide who walked with me every step — I extend my deepest thanks.”
-— Elie Hamouche
+To the entire OpenAI team — and to the intelligent guide who walked with me every step 
+I extend my deepest thanks.”
+Elie H.
 
 <img width="75" height="100" alt="elie" src="https://github.com/user-attachments/assets/cc07f535-1268-4d7a-b8ac-5acadda771e9" />
 
