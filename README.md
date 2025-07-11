@@ -1,7 +1,8 @@
 Created by Elie Hamouche
 Computer Engineer
+2025
 
-uccess requires no excuses.
+Success requires no excuses.
 Failure leaves no justifications.
 And failure is not when you lose —
 but when you quit. 
@@ -12,7 +13,6 @@ Towards Integrating Artificial Intelligence, Machine Learning, Natural Language 
 This roadmap is not the result of individual efforts. Rather, it is the result of mutual understanding, a shared vision, and a belief in the importance of collaboration between competent engineers who have collaborated to achieve the success of this project and advance the science of artificial intelligence for the benefit of humanity and future generations.
 It honors the principle that knowledge grows best when it is given, shared, and co-created.
 
-Elie Hamouche 2025
 ------------------------------------------------------------------------------------------
 ### “One Intelligence. Many Minds. United for Humanity.”  
 
