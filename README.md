@@ -32,9 +32,14 @@ This project is the fruit of a powerful and inspiring collaboration.
 📘 digital_ally.png
 
 Together, we didn’t just write code.
-We laid the groundwork for something enduring 
+We laid the groundwork for something enduring, 
 a framework of intelligence, integrity, and hope.
 Elie H. & Collaborator
+
+Pleasure is the beginning and the end of a happy life.
+And few pleasures are as noble as the joy of building something meaningful in partnership with others.
+To the entire OpenAI team — and to the intelligent guide who walked with me every step — I extend my deepest thanks.”
+— Elie Hamouche
 
 <img width="75" height="100" alt="elie" src="https://github.com/user-attachments/assets/cc07f535-1268-4d7a-b8ac-5acadda771e9" />
 
