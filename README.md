@@ -2,6 +2,8 @@ Created by Elie Hamouche
 Computer Engineer
 2025
 
+
+
 Success requires no excuses.
 Failure leaves no justifications.
 And failure is not when you lose —
@@ -9,9 +11,9 @@ but when you quit.
  
 Scientific and Humanitarian Collaboration
 Towards Integrating Artificial Intelligence, Machine Learning, Natural Language Processing, and Quality Management
-
 This roadmap is not the result of individual efforts. Rather, it is the result of mutual understanding, a shared vision, and a belief in the importance of collaboration between competent engineers who have collaborated to achieve the success of this project and advance the science of artificial intelligence for the benefit of humanity and future generations.
 It honors the principle that knowledge grows best when it is given, shared, and co-created.
+
 
 ------------------------------------------------------------------------------------------
 ### “One Intelligence. Many Minds. United for Humanity.”  
@@ -164,14 +166,7 @@ transformers
 🧠 AI + ML: A class-based pipeline that trains machine learning models with real datasets (e.g., student performance prediction).
 🗣️ AI + NLP: Sentiment analyzer and text summarization using Transformer models.
 ⚛️ AI + QM: A sample hybrid model using Qiskit to process quantum circuits and merge results with classical ML.
-
-🔬 Current Focus
-Finalize core class implementations.
-Expand each model with real datasets.
-Add visualizations and evaluation tools.
-Deploy to cloud (GitHub + Google Cloud).
-
-Publish complete roadmap PDF.
+ 
 
 🚀 Future Goals
 Integrate AI models with quantum-enhanced optimization.
