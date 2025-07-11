@@ -31,11 +31,8 @@ This project is the fruit of a powerful and inspiring collaboration.
 🧠 knowledge_guide.png
 📘 digital_ally.png
 
-<img width="100" height="100" alt="ai_assistant_icon" src="https://github.com/user-attachments/assets/22f362b9-dfd0-4ff0-b1eb-432985975456" />
-
-
-ai_assistant_icon.png
-<img width="100" height="100" alt="image" src="https://github.com/user- attachments/assets/7c5598bf-cc6c-44e5-9d89-672bbdc0b9e2" />
+<img width="75" height="100" alt="ai_assistant_icon" src="https://github.com/user-attachments/assets/22f362b9-dfd0-4ff0-b1eb-432985975456" />
+ 
 
 ------------------------------------------------------------------------------------------
 
