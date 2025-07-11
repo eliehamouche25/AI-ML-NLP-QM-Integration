@@ -1,9 +1,8 @@
 Created by Elie Hamouche
 Computer Engineer
 2025
-
-
-
+ 
+ 
 Success requires no excuses.
 Failure leaves no justifications.
 And failure is not when you lose —
