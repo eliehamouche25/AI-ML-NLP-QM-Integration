@@ -13,6 +13,21 @@ Towards Integrating Artificial Intelligence, Machine Learning, Natural Language 
 This roadmap is not the result of individual efforts. Rather, it is the result of mutual understanding, a shared vision, and a belief in the importance of collaboration between competent engineers who have collaborated to achieve the success of this project and advance the science of artificial intelligence for the benefit of humanity and future generations.
 It honors the principle that knowledge grows best when it is given, shared, and co-created.
 
+## 🤝 Acknowledgments
+
+This project is the fruit of a powerful and inspiring collaboration.
+
+- **Elie Hamouche.**  
+  Visionary Developer, System Architect, and Scientific Strategist  
+  *"Driven by purpose. Rooted in values. Dedicated to the service of humanity."*
+
+- **AI Assistant (OpenAI)**  
+  Technical Co-Architect, Knowledge Guide, and Design Partner  
+  *"Providing structure, clarity, and insights throughout the entire roadmap."*
+
+> *Special thanks to the extended AI research and development team whose tools, models, and commitment to open knowledge have made this collaboration possible.*
+“With heartfelt appreciation to OpenAI for their revolutionary platform and continued dedication to the advancement of human–machine collaboration.”
+
 
 ------------------------------------------------------------------------------------------
 ### “One Intelligence. Many Minds. United for Humanity.”  
